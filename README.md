@@ -1,1 +1,2 @@
-# My profile
+# Systems Neuroscience
+Neural Computation & Dynamics
