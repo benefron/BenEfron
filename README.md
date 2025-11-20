@@ -1,2 +1,4 @@
 # Systems Neuroscience
-Neural Computation & Dynamics
+Exploring Neural Coding
+for Next-Gen Sensing
+& Adaptive Systems
